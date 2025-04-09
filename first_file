@@ -1,1 +1,18 @@
 Console.WriteLine("My name is Sara and my roll no is 24-ST-043.);
+1st_semester
+ 2nd_semster
+Console.WriteLine("My 2 semester subjects are:
+Physics
+Chemistry
+Biology
+Urdu
+English
+Pak.Study
+THQ
+");
+
+Console.WriteLine("My 1st semester subjects are Physics, Biology, Physics, English, Islamiyat, THQ, Urdu.);
+1st_semester
+
+Console.WriteLine("My FS c subjects are Urdu, English, Physics, Biology, Chemistry, Pak.Study and THQ");
+ fsc_subjects
