@@ -1,1 +1,10 @@
 Console.WriteLine("My name is Sara and my roll no is 24-ST-043.);
+Console.WriteLine("My 2 semester subjects are:
+Physics
+Chemistry
+Biology
+Urdu
+English
+Pak.Study
+THQ
+");
