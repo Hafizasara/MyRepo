@@ -1,18 +1,18 @@
+This file contains information about subjects i have studied in FSc and semesters.
 Console.WriteLine("My name is Sara and my roll no is 24-ST-043.);
 1st_semester
  2nd_semster
 Console.WriteLine("My 2 semester subjects are:
-Physics
-Chemistry
-Biology
-Urdu
-English
-Pak.Study
-THQ
+OOP
+SCM
+SDLC
+THQ-1
+Functional English
+Probability and statistics
 ");
 
-Console.WriteLine("My 1st semester subjects are Physics, Biology, Physics, English, Islamiyat, THQ, Urdu.);
+Console.WriteLine("My 1st semester subjects are Programming Languages, ITS, Analytical Geometry, Islamiyat.);
 1st_semester
 
-Console.WriteLine("My FS c subjects are Urdu, English, Physics, Biology, Chemistry, Pak.Study and THQ");
+Console.WriteLine("My FS c subjects are Urdu, English, Physics, Biology, Chemistry, Islamiyat, Pak.Study and THQ");
  fsc_subjects
